@@ -38,9 +38,9 @@ from sqlalchemy import create_engine
 
 # create sqlalchemy engine
 engine = create_engine("mysql+pymysql://{user}:{password}@localhost/{database}"
-                       .format(user = 'root',
-                              password = 'Coors1998',
-                              database = 'stocks'))
+                       .format(user = 'XXX',
+                              password = 'XXX',
+                              database = 'XXX'))
 ```
 
 
